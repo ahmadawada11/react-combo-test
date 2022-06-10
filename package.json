@@ -1,0 +1,25 @@
+{
+  "name": "heuqmr--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react-dom": "18.1.0",
+    "@progress/kendo-react-animation": "5.3.0",
+    "prop-types": "15.8.1",
+    "@progress/kendo-react-dropdowns": "5.3.0",
+    "react": "18.1.0",
+    "@progress/kendo-react-buttons": "5.3.0",
+    "@progress/kendo-licensing": "1.2.2",
+    "@progress/kendo-react-treeview": "5.3.0",
+    "@progress/kendo-react-intl": "5.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
